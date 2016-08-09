@@ -1,6 +1,8 @@
 # Exercise 17
-
+# Important functions
+    # open(),read(),raw_input(),len(),exists(), write(), close()
 print "Begin Exercise 17: More Files \n"
+
 
 #Copy one file to another file
 

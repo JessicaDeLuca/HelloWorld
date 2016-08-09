@@ -4,7 +4,7 @@
 # iTerm for terminal
 # iPython
 # Atom as IDE (integrated developent environment) / Text Editor
-# GitHub
+# GitHub, keep remote cooy of your git repository
 
 
 # Exercise 1
